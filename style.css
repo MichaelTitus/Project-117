@@ -1,0 +1,19 @@
+.heading{
+    font-size:30px;
+    width:100%;
+    margin:0px;
+    box-shadow: 15px 15px 30px aquamarine;
+}
+.heading_div{
+    float: none;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 30%;
+    color:chartreuse;
+    box-shadow: 15px 15px 30px red;
+}
+.heading_div2{
+    margin-bottom: 30px;
+    border-radius: 10px;
+    font-size: 30px;
+}
